@@ -6,8 +6,12 @@
 
 # VueDemo
 ## 1. 项目描述
-1. 详情http://www.tangvelley.com/
+1. 详情http://www.tangvelley.com/article/16/
 2. 索引https://www.cnblogs.com/infaaf/p/9691641.html
 
 ## 2. 代码目录
 src-xxx 形式
+
+
+## 3. 调皮的小精灵
+![image](https://github.com/infaaf/frontend_vue-demo/p1.png)  
