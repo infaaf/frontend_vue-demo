@@ -14,4 +14,4 @@ src-xxx 形式
 
 
 ## 3. 调皮的小精灵
-![image](https://github.com/infaaf/frontend_vue-demo/p1.png)  
+![image](https://github.com/infaaf/frontend_vue-demo/blob/master/p1.png)  
